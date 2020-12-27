@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">corona tracker</string>
+    <string name="Countries">Countries</string>
+    <string name="MyCountry">My country</string>
+    <string name="Volunteer">Volunteer</string>
+    <string name="Protection">Protection</string>
+    <string name="Overview_cases">Overview cases</string>
+    <string name="Cases">Cases</string>
+    <string name="recovered">recovered</string>
+    <string name="Deaths">Deaths</string>
+    <string name="population_with">population with coronavirus</string>
+    <string name="graphconfirmed">confirmed</string>
+    <string name="graphrecovered">recovered</string>
+    <string name="graphdeaths">deaths</string>
+    <string name="send">Send</string>
+    <string name="requesthint">type your request  ….</string>
+    <string name="c_country">World</string>
+    <string name="c_cases">Cases :</string>
+    <string name="c_active">Active :</string>
+    <string name="c_todaycases">Today Cases :</string>
+    <string name="c_death">Deaths :</string>
+    <string name="c_recovered">Recovered :</string>
+    <string name="c_certival">certical :</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
